@@ -1,7 +1,10 @@
 # 16bit_unsign_integer_approx_PI_deepseek_gen_C_code_testing
 選取兩個16位元無符號整數, 構成分數, 分母必須是2的幂值, 使它最近似PI值, 求誤差百分比, 給出最佳的組合數值範例
 
+![16bit_approx_pi.JPG](16bit_approx_pi.JPG)    
 
+
+  
 Below is a **MinGW-compatible C program** that calculates the best combination of a 16-bit unsigned integer numerator and a denominator that is a power of 2 to approximate π. The program also calculates the error percentage.
 
 ### C Program Code
